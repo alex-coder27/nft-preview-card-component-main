@@ -1,0 +1,20 @@
+:root {
+    --color-primary-1:hsl(215, 51%, 70%);
+    --color-primary-2:hsl(178, 100%, 50%);
+
+    --color-neutral-1:hsl(0, 0%, 100%);
+    --color-neutral-2:hsl(215, 32%, 27%);
+    --color-neutral-3:hsl(216, 50%, 16%);
+    --color-neutral-4:hsl(217, 54%, 11%);
+
+    --color-bg-main: var(--color-neutral-4);
+    --color-bg-card: var(--color-neutral-3);
+    --color-bg-viewer-overlay:hsla(178, 100%, 50%, 0.5);
+    --color-line: var(--color-neutral-2);
+
+    --font-family: 'Outfit';
+
+    --font-weight-light:300;
+    --font-weight-regular: 400;
+    --font-weight-semibold: 600;
+}
