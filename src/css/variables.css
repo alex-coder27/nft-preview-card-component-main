@@ -11,6 +11,8 @@
     --color-bg-card: var(--color-neutral-3);
     --color-bg-viewer-overlay:hsla(178, 100%, 50%, 0.5);
     --color-line: var(--color-neutral-2);
+    --color-link-footer:hsl(228, 45%, 44%);
+    --color-shadow:rgba(0, 0, 0, 0.1);
 
     --font-family: 'Outfit';
 
