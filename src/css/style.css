@@ -42,6 +42,12 @@ main {
     cursor: pointer;
 }
 
+@media(prefers-reduced-motion: reduce) {
+    .nft-card__image-overlay {
+        transition: none;
+    }
+}
+
 .nft-card__image-container:hover .nft-card__image-overlay {
     opacity: 1;
 }
